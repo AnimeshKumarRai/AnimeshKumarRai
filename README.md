@@ -42,5 +42,5 @@
   <br>
 </div>
 <hr>
-<h3 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h3 align="center">🔥  🔥</h2>
 <br>
