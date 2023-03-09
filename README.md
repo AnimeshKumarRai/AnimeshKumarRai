@@ -1,53 +1,46 @@
-<div>
-        <h1 align="center"> Hi there 👋</h1>
-</div>
-<div>
-        <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Animesh+Kumar+Rai" alt="Typing SVG" /></a></h1>
-</div>
 
+<div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Animesh+Kumar+Rai!;&center=true&size=30">
+
+</div>
+<p align="center">
+  Hi, I'm Animesh Kumar Rai, Learner, Coder 🥷👨‍💻 from India 🇮🇳
+  <br>
+<!--   <br>
+  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a> -->
+  <br>
+  💻 I love to learn new technologies.
+<!--   <br>
+  🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
+  <br> -->
+</p>
+<div align="center">
 <p align="center">
   
   [![@animeshkrrai](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animeshkrrai/) [![@animeshrai86](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animeshrai86@gmail.com) [![@animesh__rai](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/animesh__rai/)  [![@animeshrai86](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]((https://www.facebook.com/animeshrai86/)) 
  </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+</div>
+<hr>
+<h3 align="center">🔥 Skills 🔥</h2>
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Skills</b>
+<br> -->
 <p align="center">
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,ae,ai,ps,linux,figma,xd,vscode" />
+
+  </a>
+</p>
+<br>
+        
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
+  <h4>🐍 Snake eating my contribution 🐍</h2>
   <img alt="snake eating my contribution" src="https://github.com/AnimeshKumarRai/AnimeshKumarRai/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
 </div>
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-<!-- - **Cloud Hosting**: -->
-
-<!--     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) -->
-    
-<!-- <br> -->
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+<hr>
+<h3 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
