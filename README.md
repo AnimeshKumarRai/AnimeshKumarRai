@@ -13,9 +13,14 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
   
-![snake gif](https://github.com/AnimeshKumarRai/AnimeshKumarRai/blob/output/github-contribution-grid-snake.gif)
-
-
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/AnimeshKumarRai/AnimeshKumarRai/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
