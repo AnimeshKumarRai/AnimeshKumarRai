@@ -28,7 +28,7 @@
 <br> -->
 <p align="center">
   <a href="https://github.com/AnimeshKumarRai">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,react,nodejs,flutter,dart,angular" /><br>
     <img src="https://skillicons.dev/icons?i=blender,ae,ai,ps,linux,figma,xd,vscode" />
 
   </a>
