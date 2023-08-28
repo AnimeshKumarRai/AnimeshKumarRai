@@ -34,6 +34,7 @@
   </a>
 </p>
 <br>
+<!--
 <div align="center">
   <h4>🐍 Snake eating my contribution 🐍</h2>
        <a href="https://github.com/AnimeshKumarRai">
@@ -56,6 +57,7 @@
   <br>
   <br>
 </div>
+-->
 <hr>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
