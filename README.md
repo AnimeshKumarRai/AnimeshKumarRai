@@ -67,9 +67,9 @@
     <a href="https://github.com/AnimeshKumarRai" title="">
       <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshKumarRai&layout=compact&langs_count=16&theme=dracula"/>
     </a>
-    <a href="https://github.com/AnimeshKumarRai" title="">
+<!--     <a href="https://github.com/AnimeshKumarRai" title="">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnimeshKumarRai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    </a>
+    </a> -->
   </div>
   <!--
   <br><br><br><br><br><br><br><br><br>
