@@ -1,102 +1,81 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshKumarRai&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
+</div>
 
 <div align="center">
-     <a href="https://github.com/AnimeshKumarRai">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Animesh+Kumar+Rai!;&center=true&size=30">
-     </a>
-</div>
-<p align="center">
-  Hi, I'm Animesh Kumar Rai, Learner, Coder 🥷👨‍💻 from India.
-  <br>
-<!--   <br>
-  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a> -->
-  <br>
-  💻 I love to learn new technologies.
-<!--   <br>
-  🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
-  <br> -->
-</p>
-<div align="center">
-<p align="center">
-  
-  [![@animeshkrrai](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animeshkrrai/) [![@animeshrai86](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animeshrai86@gmail.com) [![@animesh__rai](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/animesh__rai/) [![@animeshrai86](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/animeshrai86/) 
- </p>
-
-</div>
-<hr>
-<h3 align="center">🔥 Skills 🔥</h2>
-<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Skills</b>
-<br> -->
-<p align="center">
   <a href="https://github.com/AnimeshKumarRai">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,react,nodejs,flutter,dart,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,ae,ai,ps,linux,figma,xd,vscode" />
-
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Animesh+Kumar+Rai!;&center=true&size=40&duration=4000&pause=2000">
   </a>
-</p>
-<br>
-<!--
-<div align="center">
-  <h4>🐍 Snake eating my contribution 🐍</h2>
-       <a href="https://github.com/AnimeshKumarRai">
-           <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AnimeshKumarRai/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AnimeshKumarRai/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AnimeshKumarRai/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-     </a>
-  <br>
-  <br>
-  <br>
 </div>
--->
-<hr>
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/AnimeshKumarRai" title="">
-      <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshKumarRai&layout=compact&langs_count=16&theme=dracula"/>
+
+<div align="center">
+  <h1>👋 Hi, I'm Animesh Kumar Rai</h1>
+  <p>Learner, Coder 🥷👨‍💻 from India</p>
+  <p>🎓 Masters Graduate from DAIICT</p>
+  <p>💻 Passionate about building innovative solutions with MERN stack</p>
+  <p>🧑‍💼 Currently crafting digital experiences at CODEZEROS</p>
+</div>
+
+<div align="center">
+  <h3>🌟 Let's Connect!</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/animeshkrrai/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-<!--     <a href="https://github.com/AnimeshKumarRai" title="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnimeshKumarRai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    </a> -->
-  </div>
-  <!--
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/AnimeshKumarRai">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshKumarRai&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="mailto:animeshrai86@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-  </div>
-   <br>
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnimesKumarRai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<hr> -->
+    <a href="https://www.instagram.com/animesh__rai/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.facebook.com/animeshrai86/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    </a>
+  </p>
+</div>
 
+<div align="center">
+  <h3>🚀 Technical Skills 🚀</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,react,nodejs,flutter,dart,angular&perline=15"/>
+  <img src="https://skillicons.dev/icons?i=blender,ae,ai,ps,linux,figma,xd,vscode&perline=15"/>
+</div>
 
-<!--
-**AnimeshKumarRai/AnimeshKumarRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>🎯 Current Focus 🎯</h3>
+  <ul>
+    <li>Building scalable MERN stack applications</li>
+    <li>Exploring machine learning and data science</li>
+    <li>Creating innovative UI/UX solutions</li>
+    <li>Mentoring junior developers</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>💫 GitHub Stats 💫</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshKumarRai&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnimeshKumarRai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&hide_border=true"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnimeshKumarRai&theme=dracula&hide_border=true"/>
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AnimeshKumarRai&theme=dracula&row=2&column=3&margin-w=15&margin-h=15"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=AnimeshKumarRai&theme=react-dark&bg_color=20232a&hide_border=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>📈 Contribution Graph 📈</h3>
+  <img src="https://ghchart.rsth.net/AnimeshKumarRai"/>
+</div>
+
+<div align="center">
+  <h3>🎯 Fun Facts 🎯</h3>
+  <ul>
+    <li>⭐ Open source enthusiast</li>
+    <li>📱 Mobile app development specialist</li>
+    <li>🎨 UI/UX design enthusiast</li>
+    <li>🌟 Always learning new technologies</li>
+  </ul>
+</div>
