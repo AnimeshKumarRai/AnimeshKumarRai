@@ -46,14 +46,16 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://thetraveldelight.com">
-          <img src="https://i.ibb.co/LDpCpZq8/Screenshot-2025-07-08-175138.png" width="300" alt="Project 1" />
+          <img src="https://i.ibb.co/LDpCpZq8/Screenshot-2025-07-08-175138.png" width="300" alt="The Travel Delight Project" />
           <br><b>The Travel Delight</b><br>
           A full-stack web app built with React and Node.js, featuring real-time data processing.A travel website
         </a>
       </td>
-      <td align="  <img src="https://i.ibb.co/sdNgmf0h/Screenshot-2025-07-08-175734.png" />
+      <td align="center" width="33%">
+        <a href="https://tutorkendra.in">
+          <img src="https://i.ibb.co/sdNgmf0h/Screenshot-2025-07-08-175734.png" width="300" alt="Tutor Kendra Project" />
           <br><b>Tutor Kendra</b><br>
-          A Home Tutor platform in which user can query about Home Tution.
+          A full-stack web app built with React and Node.js, featuring real-time data processing.A travel website
         </a>
       </td>
     </tr>
