@@ -55,7 +55,7 @@
         <a href="https://tutorkendra.in">
           <img src="https://i.ibb.co/sdNgmf0h/Screenshot-2025-07-08-175734.png" width="300" alt="Tutor Kendra Project" />
           <br><b>Tutor Kendra</b><br>
-          A full-stack web app built with React and Node.js, featuring real-time data processing.A travel website
+          An online tutoring platform connecting students with expert tutors for personalized learning.
         </a>
       </td>
     </tr>
