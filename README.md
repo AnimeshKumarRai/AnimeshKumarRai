@@ -33,7 +33,7 @@
 ## 🔥 Tech Stack
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,react,nodejs,express,flutter,dart,angular,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,react,nodejs,express,flutter,dart,git,github" /><br>
   <img src="https://skillicons.dev/icons?i=blender,ae,ai,ps,linux,figma,xd,vscode,docker,aws" />
 </div>
 
